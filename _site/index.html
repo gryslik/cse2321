@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/cse2321/assets/css/style.css?v=">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#151515">
+<meta name="msapplication-navbutton-color" content="#151515">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
+
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/cse2321/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>CSE 2321 | Foundations 1: Discrete Structures</title>
+<meta name="generator" content="Jekyll v3.9.5" />
+<meta property="og:title" content="CSE 2321" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Foundations 1: Discrete Structures" />
+<meta property="og:description" content="Foundations 1: Discrete Structures" />
+<link rel="canonical" href="http://localhost:4000/cse2321/" />
+<meta property="og:url" content="http://localhost:4000/cse2321/" />
+<meta property="og:site_name" content="CSE 2321" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="CSE 2321" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Foundations 1: Discrete Structures","headline":"CSE 2321","name":"CSE 2321","url":"http://localhost:4000/cse2321/"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <header>
+      <div class="container">
+        <a id="a-title" href="/cse2321/">
+          <h1>CSE 2321</h1>
+        </a>
+        <h2>Foundations 1: Discrete Structures</h2>
+
+        <section id="downloads">
+          
+          <a href="" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+        </section>
+      </div>
+    </header>
+
+    <div class="container">
+      <section id="main_content">
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
+
+<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+
+<script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
+
+<h1 id="autumn-2024">Autumn 2024</h1>
+
+<h2 id="class-information">Class Information</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Section 0020</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Schedule</td>
+      <td>Tue/Thursday 5:30 PM - 6:50 PM EST</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Zoom. Details on Carmen.</td>
+    </tr>
+    <tr>
+      <td>Professor</td>
+      <td>Greg Ryslik / ryslik DOT 1 AT osu DOT edu</td>
+    </tr>
+    <tr>
+      <td>Professor Office Hours</td>
+      <td>Fridays (2:20 - 3:40 PM) - via zoom. Contact me ahead of time if you plan to attend.</td>
+    </tr>
+    <tr>
+      <td>TA</td>
+      <td>TBD</td>
+    </tr>
+    <tr>
+      <td>TA Office Hours</td>
+      <td>TBD</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>All classes will be recorded and posted for you to review online afterwards. Some classes may need to be rescheduled earlier or later due to professor travel. They will of course be recorded as well if the new time doesn’t work.</p>
+
+<h2 id="description">Description:</h2>
+<p>By the end of this course, students should be comfortable using propositional logic, first-order predicate logic, be familiar with basic mathematical proofs such as proof by contradiction and strong and ordinary mathematical induction, be familiar with using asymptotic notation, be able to analyze running time of simple iterative or recursive algorithms, and finally be familiar with basic definitions and algorithms in graph theory.</p>
+
+<h2 id="grading-plan">Grading Plan:</h2>
+<ol>
+  <li>Midterm 1: 20%</li>
+  <li>Midterm 2: 20%</li>
+  <li>Final: 35%</li>
+  <li>HW: 20%</li>
+  <li>Participation: 5% (Retrospective Assignments)</li>
+</ol>
+
+<p>There might be tentative bonus points assigned for harder math or cs problems. Max would be at most 3%. At the discretion of the professor :-).</p>
+
+<h2 id="textbooks">Textbooks:</h2>
+<p>You might find the following books useful but I won’t assign homework from them.</p>
+
+<ol>
+  <li>Discrete Mathematics and Its Applications, Eighth Edition, By Kenneth Rosen.</li>
+  <li>Introduction to Algorithms, Third Edition, by Corman, Leiserson, Rivest and Stein.</li>
+</ol>
+
+<h2 id="class-course">Class course</h2>
+
+<table class="display" border="1" frame="sides" rules="all">
+  
+    
+    <tr>
+      
+        <th>﻿Class</th>
+      
+        <th>Wk</th>
+      
+        <th>Date</th>
+      
+        <th>Day</th>
+      
+        <th>Topic</th>
+      
+        <th>Assign Out</th>
+      
+        <th>Assign Due</th>
+      
+        <th>Notes</th>
+      
+        <th>Video</th>
+      
+        <th>Related Files</th>
+      
+    </tr>
+    
+
+    <tr class="row1">
+<td class="col1">
+      1
+    </td><td class="col2">
+      1
+    </td><td class="col3">
+      20-Aug
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Logic &amp; Proofs
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      1. <a href="https://osu.instructure.com/files/66955604"> Logic 1  </a> <br /> 
+2. <a href="https://osu.instructure.com/files/66955603"> Logic 2 </a> <br />
+3. <a href="https://osu.instructure.com/files/66955601"> Proof Methods </a> 
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      2
+    </td><td class="col2">
+      1
+    </td><td class="col3">
+      22-Aug
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Logic &amp; Proofs
+    </td><td class="col6">
+      HW1
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      3
+    </td><td class="col2">
+      2
+    </td><td class="col3">
+      27-Aug
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Logic &amp; Proofs
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      4
+    </td><td class="col2">
+      2
+    </td><td class="col3">
+      29-Aug
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Logic &amp; Proofs
+    </td><td class="col6">
+      HW2
+    </td><td class="col7">
+      HW1
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      5
+    </td><td class="col2">
+      3
+    </td><td class="col3">
+      3-Sep
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Logic &amp; Proofs
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      6
+    </td><td class="col2">
+      3
+    </td><td class="col3">
+      5-Sep
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Logic &amp; Proofs
+    </td><td class="col6">
+      HW3
+    </td><td class="col7">
+      HW2
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      7
+    </td><td class="col2">
+      4
+    </td><td class="col3">
+      10-Sep
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Set Theory
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      1. <a href="https://osu.instructure.com/files/66955599"> Set Theory 1  </a> <br /> 
+2. <a href="https://osu.instructure.com/files/66955597"> Set Theory 2 </a>
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      8
+    </td><td class="col2">
+      4
+    </td><td class="col3">
+      12-Sep
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Set Theory
+    </td><td class="col6">
+      HW4
+    </td><td class="col7">
+      HW3
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      9
+    </td><td class="col2">
+      5
+    </td><td class="col3">
+      17-Sep
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Set Theory
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      10
+    </td><td class="col2">
+      5
+    </td><td class="col3">
+      19-Sep
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Set Theory
+    </td><td class="col6">
+      HW5
+    </td><td class="col7">
+      HW4
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      11
+    </td><td class="col2">
+      6
+    </td><td class="col3">
+      24-Sep
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Review For Exam 1
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      12
+    </td><td class="col2">
+      6
+    </td><td class="col3">
+      26-Sep
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Exam 1
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      13
+    </td><td class="col2">
+      7
+    </td><td class="col3">
+      1-Oct
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Algorithms
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      1. <a href="https://osu.instructure.com/files/66955608"> Algorithms  </a> <br /> 
+2. <a href="https://osu.instructure.com/files/66955607"> Asymptotic Behavior </a>
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      14
+    </td><td class="col2">
+      7
+    </td><td class="col3">
+      3-Oct
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Algorithms
+    </td><td class="col6">
+      HW6
+    </td><td class="col7">
+      HW5
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      15
+    </td><td class="col2">
+      8
+    </td><td class="col3">
+      8-Oct
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Algorithms
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      16
+    </td><td class="col2">
+      8
+    </td><td class="col3">
+      10-Oct
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      No Class
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      17
+    </td><td class="col2">
+      9
+    </td><td class="col3">
+      15-Oct
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Algorithms
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      18
+    </td><td class="col2">
+      9
+    </td><td class="col3">
+      17-Oct
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Algorithms
+    </td><td class="col6">
+      HW7
+    </td><td class="col7">
+      HW6
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      19
+    </td><td class="col2">
+      10
+    </td><td class="col3">
+      22-Oct
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Induction
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      1. <a href="https://osu.instructure.com/files/66955602"> Mathematical Induction </a>
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      20
+    </td><td class="col2">
+      10
+    </td><td class="col3">
+      24-Oct
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Induction
+    </td><td class="col6">
+      HW8
+    </td><td class="col7">
+      HW7
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      21
+    </td><td class="col2">
+      11
+    </td><td class="col3">
+      29-Oct
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Recursion
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      1. <a href="https://osu.instructure.com/files/66955600"> Recursion </a>
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      22
+    </td><td class="col2">
+      11
+    </td><td class="col3">
+      31-Oct
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Recursion
+    </td><td class="col6">
+      HW9
+    </td><td class="col7">
+      HW8
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      23
+    </td><td class="col2">
+      12
+    </td><td class="col3">
+      5-Nov
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Review for Exam 2
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      24
+    </td><td class="col2">
+      12
+    </td><td class="col3">
+      7-Nov
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Exam 2
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      25
+    </td><td class="col2">
+      13
+    </td><td class="col3">
+      12-Nov
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Recursion
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      26
+    </td><td class="col2">
+      13
+    </td><td class="col3">
+      14-Nov
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Recursion
+    </td><td class="col6">
+      HW10
+    </td><td class="col7">
+      HW9
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      27
+    </td><td class="col2">
+      14
+    </td><td class="col3">
+      19-Nov
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Graph Theory
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      1. <a href="https://osu.instructure.com/files/66955606"> Graph Algorithms</a>
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      28
+    </td><td class="col2">
+      14
+    </td><td class="col3">
+      21-Nov
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      Graph Theory
+    </td><td class="col6">
+      HW11
+    </td><td class="col7">
+      HW10
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      29
+    </td><td class="col2">
+      15
+    </td><td class="col3">
+      26-Nov
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Graph Theory
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      30
+    </td><td class="col2">
+      15
+    </td><td class="col3">
+      28-Nov
+    </td><td class="col4">
+      Thursday
+    </td><td class="col5">
+      No Class
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      HW 11
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+    
+
+    <tr class="row1">
+<td class="col1">
+      31
+    </td><td class="col2">
+      16
+    </td><td class="col3">
+      3-Dec
+    </td><td class="col4">
+      Tuesday
+    </td><td class="col5">
+      Graph Theory
+    </td><td class="col6">
+      
+    </td><td class="col7">
+      
+    </td><td class="col8">
+      
+    </td><td class="col9">
+      
+    </td><td class="col10">
+      
+    </td></tr>
+
+  
+</table>
+
+<h2 id="grading-scheme">Grading Scheme</h2>
+<p>Grades will follow the standard scale:</p>
+
+<hr />
+
+<p>A : 93 &lt;= grade &lt;= 100 <br />
+A-: 90 &lt;= grade &lt; 93   <br />
+B+: 87 &lt;= grade &lt; 90   <br />
+B : 83 &lt;= grade &lt; 87   <br />
+B-: 80 &lt;= grade &lt; 83   <br />
+C+: 77 &lt;= grade &lt; 80   <br />
+C : 73 &lt;= grade &lt; 77   <br />
+C-: 70 &lt;= grade &lt; 73   <br />
+D+: 67 &lt;= grade &lt; 70   <br />
+D : 60 &lt;= grade &lt; 67   <br />
+E : &lt;60</p>
+
+      </section>
+    </div>
+  </body>
+</html>
