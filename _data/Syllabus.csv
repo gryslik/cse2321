@@ -10,25 +10,25 @@
 7,4,27-Jan,Mon,Set Theory,,,"1. <a href =  ""https://osu.instructure.com/files/73180633""> Set Theory 1  </a> <br> 
 2. <a href =  ""https://osu.instructure.com/files/73180642""> Set Theory 2 </a>",,
 8,4,29-Jan,Wed,Set Theory,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545818""> HW4 </a>",HW3,,,
-9,5,3-Feb,Mon,Set Theory,,,"1. <a href =""https://osu.instructure.com/files/73180651""> Algorithms  </a> <br> 
-2. <a href =  ""https://osu.instructure.com/files/73180639""> Asymptotic Behavior </a>",,
+9,5,3-Feb,Mon,Set Theory,,,,,
 10,5,5-Feb,Wed,Review For Exam 1,,,,,
 11,6,10-Feb,Mon,Exam 1,,HW4,,,
-12,6,12-Feb,Wed,Algorithms,,,,,
+12,6,12-Feb,Wed,Algorithms,,,"1. <a href =""https://osu.instructure.com/files/73180651""> Algorithms  </a> <br> 
+2. <a href =  ""https://osu.instructure.com/files/73180639""> Asymptotic Behavior </a>",,
 13,7,17-Feb,Mon,Algorithms,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545819""> HW5 </a>",,,,
 14,7,19-Feb,Wed,Algorithms,,,,,
 15,8,24-Feb,Mon,Algorithms,,,,,
 16,8,26-Feb,Wed,Algorithms,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545820""> HW6 </a>",HW5,,,
 17,9,3-Mar,Mon,Induction,,,,,
 18,9,5-Mar,Wed,Induction,,,,,
-19,10,10-Mar,Mon,No Class,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545821""> HW7 </a>",HW6,"1. <a href =  ""https://osu.instructure.com/files/73180644""> Recursion </a>",,"<a href =  ""https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf""> Master Theorem Notes </a> "
+19,10,10-Mar,Mon,No Class,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545821""> HW7 </a>",HW6,,,
 20,10,12-Mar,Wed,No Class,,,,,
-21,11,17-Mar,Mon,Recursion,,,,,
+21,11,17-Mar,Mon,Recursion,,,"1. <a href =  ""https://osu.instructure.com/files/73180644""> Recursion </a>",,"<a href =  ""https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf""> Master Theorem Notes </a> "
 22,11,19-Mar,Wed,Recursion,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545822""> HW8</a>",HW7,,,
 23,12,24-Mar,Mon,Recursion,,,,,
-24,12,26-Mar,Wed,Review,,,"1. <a href =  ""https://osu.instructure.com/files/73180627""> Graph Algorithms</a>",,"<a href =  ""https://jlmartin.ku.edu/courses/math105-F11/Lectures/chapter5-part2.pdf""> Eulerian Paths</a> "
+24,12,26-Mar,Wed,Review,,,,,
 25,13,31-Mar,Mon,Exam 2,,HW8,,,
-26,13,2-Apr,Wed,Graph Theory,,,,,
+26,13,2-Apr,Wed,Graph Theory,,,"1. <a href =  ""https://osu.instructure.com/files/73180627""> Graph Algorithms</a>",,"<a href =  ""https://jlmartin.ku.edu/courses/math105-F11/Lectures/chapter5-part2.pdf""> Eulerian Paths</a> "
 27,14,7-Apr,Mon,Graph Theory,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545823""> HW9</a>",,,,
 28,14,9-Apr,Wed,Graph Theory,,,,,
 29,15,14-Apr,Mon,Graph Theory,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545815""> HW10</a>",HW9,,,
