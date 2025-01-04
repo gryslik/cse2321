@@ -9,17 +9,17 @@ layout: default
 <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>  
 
 
-# Autumn 2024
+# Spring 2025
 
 ## Class Information
 
-Item                     | Section 0020                
+Item                     | Section 0180             
 ------------------------ | -----------                  
-Schedule                 | Tue/Thursday 5:30 PM - 6:50 PM EST
+Schedule                 | Monday/Wednesday 1:30 - 2:50 PM
 Location                 | Zoom. Details on Carmen.
 Professor                | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
 Professor Office Hours   | Fridays (2:20 - 3:40 PM) - via zoom. Contact me ahead of time if you plan to attend.
-TA                       | Ziheng Zhang / zhang DOT 13617 AT buckeyemail DOT osu DOT edu
+TA                       | TBD
 TA Office Hours          | Per request. Please reach out over slack/ email.
 Slack Discussion Group   | See the link in Carmen! Say hello!
 
@@ -27,7 +27,7 @@ All classes will be recorded and posted for you to review online afterwards if y
 
 Some classes may need to be rescheduled earlier or later due to professor travel. They will of course be recorded as well if the new time doesn't work. 
 
-<em> Please enable your camera if you're able. I understand it's not always possible but it's very helpful to the me! </em>
+<em> Please enable your camera if at all able. I understand it's not always possible but it's very helpful to the me! </em>
 
 
 ## Description: 

@@ -1,37 +1,36 @@
 ﻿Class,Wk,Date,Day,Topic,Assign Out,Assign Due,Notes,Video,Related Files & Comments
-1,1,20-Aug,Tuesday,Logic & Proofs,,,"1. <a href =  ""https://osu.instructure.com/files/66955604""> Logic 1  </a> <br> 
-2. <a href =  ""https://osu.instructure.com/files/66955603""> Logic 2 </a> <br>
-3. <a href =  ""https://osu.instructure.com/files/66955601""> Proof Methods </a> ","<a href =  ""https://osu.zoom.us/rec/share/-OWTj5W8ySednl6nUa98b2_xG0k2b8UCTElzbwpSZ6FhOVdDg5v7DwdmIxQ8EsdX.DrGffdj2Z3B4RJxx""> 08/20/24 </a> ",Notes: Class starting at 6:30 pm today. Please join the zoom then. 
-2,1,22-Aug,Thursday,Logic & Proofs,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208207""> HW1 </a>",,,"1. <a href =  ""https://osu.zoom.us/rec/share/a5NVOL9K8aTbsfnfBb4B4_HKs3Bf-Nm2j2dTsIyDuThjBzbG5jnBUkrQV2zW45f7.ozsQIKM8DmY1fxHN""> 08/22/24 (Part 1) </a> <br> 
-2. <a href =  ""https://osu.zoom.us/rec/share/tL91k12AsX8-nFRDKWG0wMxsuOzkVY9TSs_STwj4Lgq0F2c4imwQQ6YdW1DSrB_T.DxjRu-u3Kv8cVHDO""> 08/22/24 (Part 2) </a> <br>",
-3,2,27-Aug,Tuesday,Logic & Proofs,,,,"<a href =  ""https://osu.zoom.us/rec/share/g1A_RbtFgiimuiR4T7DErVQ2iWe6aCzQ0lm5KFyE90TS40vmA6CkgzAJ8oQoK8GD.SbTxiuIiJxe6Eykm""> 08/27/24 </a> ",
-4,2,29-Aug,Thursday,Logic & Proofs,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208209""> HW2 </a>",HW1,,"<a href =  ""https://osu.zoom.us/rec/share/boSFoln2IfkB8RiC-JCh_7NmKCXIMdjzosVEzf6x4Urf-j-TjychQ_jADrtd83-d.rkZXAyHHo1qdL8cQ""> 08/29/24 </a> ",
-5,3,3-Sep,Tuesday,Logic & Proofs,,,,"<a href =  ""https://osu.zoom.us/rec/share/O7WI_I0HkMXtsppK2S2m2MrW7c1VneLbyqU_sp_naK8gIa6wDO0ayb-nxPUQ7XBO.JKZ_zv3L7mHzPEmt""> 09/03/24 </a> ",
-6,3,5-Sep,Thursday,Logic & Proofs,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208208""> HW3 </a>",HW2,,"<a href =  ""https://osu.zoom.us/rec/share/8tm4tSHct2_Y-Jjxx66ynmyHnCee0mVprr7DcTyOS9730DncGgkBFUds4V3sghHj.yOONF1rNWv2p6mFR""> 09/05/24 </a> ",
-7,4,10-Sep,Tuesday,Set Theory,,,"1. <a href =  ""https://osu.instructure.com/files/66955599""> Set Theory 1  </a> <br> 
-2. <a href =  ""https://osu.instructure.com/files/66955597""> Set Theory 2 </a>","<a href =  ""https://osu.zoom.us/rec/share/vVbaX34JJwI7Fb1Zkp3d06thyEmiRJjy7ZOuVP629O8Rbe8xm1zBNrt5YbQvton3.5TmCszDAs52iuqVp""> 09/10/24 </a> ",
-8,4,12-Sep,Thursday,Set Theory,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208211""> HW4 </a>",,,"<a href =  ""https://osu.zoom.us/rec/share/4tG3vErgVkjZY8Gl8MONcZHZAM3rDCazRCHYFKQnlJj6kJdn0XibRk1WGdGrKW6z.xH8vtrk19kIP_1Mu""> 09/12/24 </a> ",
-9,5,17-Sep,Tuesday,Algorithms,,,"1. <a href =  ""https://osu.instructure.com/files/66955608""> Algorithms  </a> <br> 
-2. <a href =  ""https://osu.instructure.com/files/66955607""> Asymptotic Behavior </a>","<a href =  ""https://osu.zoom.us/rec/share/tvx-hXpLOTwpaVQsCECj7z4OpfZZ5r71GA1657otNc4CJTHL3A6acP-49JufDmnx.AwNjZ79OPbNWrDJE""> 09/17/24 </a> ",
-10,5,19-Sep,Thursday,Algorithms,,,,"<a href =  ""https://osu.zoom.us/rec/share/kksFfWGc5Xy20MEmA2W2-eA-jLevsGQeb0IZ7pmxp2cG3faOtiXOzTTnhEqdmeuW.V2nKnmsewNcEz-gY""> 09/19/24 </a> ",
-11,6,24-Sep,Tuesday,Review For Exam 1,,,"1. <a href =  ""/cse2321/course_materials/CSE2321_Autumn_2024-Review.pdf""> Exam 1 review </a>","<a href =  ""https://osu.zoom.us/rec/share/RaK8nyfWKtGgGhhWafYmPHBO5X8ammfKaEfKa8RzoUDaRoMAuigU-AiNTdYjHtd6.zezNmUSmAPpQB2TTY""> 09/24/24 </a> ",
-12,6,26-Sep,Thursday,Exam 1,,HW4,Exam will cover topics through Set Theory.,,
-13,7,1-Oct,Tuesday,Algorithms,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208212""> HW5 </a>",,,"<a href =  ""https://osu.zoom.us/rec/share/GRHdZR5OFeG3gOiH1Ah5fCpYN4TjFyTl9oCjPImD0omlwsvT19IyMwGTzzAMkoFE.sS2BldTxcXsOJ7In""> 10/01/2024 </a> ",
-14,7,3-Oct,Thursday,No Class,,,,,
-15,8,8-Oct,Tuesday,Algorithms,,,,"<a href =  ""https://osu.zoom.us/rec/share/XIoB8E_zn1OnhED_Bta60zCfszZXQ2LUqCT1wP_foRgcrvd3EWgGqqmAz5Hk7KQD.G_B_6FEMfXSVTLcm""> 10/08/2024 </a> ",
-16,8,10-Oct,Thursday,No class,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208213""> HW6 </a>",HW5,HW is still due!,,
-17,9,15-Oct,Tuesday,Induction,,,"1. <a href =  ""https://osu.instructure.com/files/66955602""> Mathematical Induction </a>",,Cancelled!
-18,9,17-Oct,Thursday,Induction,,,,"<a href =  ""https://osu.zoom.us/rec/share/zYUg9fX0DYV_EUuU-YlcKoNAUurKp2RB0gOEs_Tkt14nRYUKk4FxgzDIHP85ySnJ.FCI0oFMVU1sN0Cdt""> 10/17/2024 </a> ",
-19,10,22-Oct,Tuesday,Recursion,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208214""> HW7 </a>",HW6,"1. <a href =  ""https://osu.instructure.com/files/66955600""> Recursion </a>","<a href =  ""https://osu.zoom.us/rec/share/YaWVGSLq4bYbuq3Fr1OgAd5TMc0iuI36jmkONZl7XfkrVjbshwG_rhPXa3ub0B_T.5A4q7bVRjipFrBQm""> 10/22/2024 </a> ",
-20,10,24-Oct,Thursday,Recursion,,,"1. <a href =  ""https://osu.instructure.com/files/66955600""> Recursion </a>","<a href =  ""https://osu.zoom.us/rec/share/0_sNQ9YA4mjVxKA1Ti6vETBhJraF-zHmxEQMrcFVVzmmn_HyrFsxH2Dk364yvSPg.eFWsGIPZsFHYPx05""> 10/24/2024 </a> ","<a href =  ""https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf""> Master Theorem Notes </a> "
-21,11,29-Oct,Tuesday,Recursion,,,"1. <a href =  ""/cse2321/course_materials/CSE2321_Autumn_2024-Review-Exam2.pdf""> Exam 2 review </a>",No Class,
-22,11,31-Oct,Thursday,Review,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208215""> HW8</a>",HW7,,"<a href =  ""https://osu.zoom.us/rec/share/p2uRpIKCLEyBwWahVzLVOEetnItwNnJfagqhiZXUoh8J7-ZqVxyj-ld43Au19bQ9.g32IQ37pMPPIAdyc""> 10/31/2024 </a> ",
-23,12,5-Nov,Tuesday,Exam 2,,,,,Sun - Wed
-24,12,7-Nov,Thursday,Graph Theory,,,"1. <a href =  ""https://osu.instructure.com/files/66955606""> Graph Algorithms</a>","<a href =  ""https://osu.zoom.us/rec/share/7GdukCNaYk3d6ni-pAmOxZp-kLmn5fypP5x8b4oux_aD6u_PpXZDUm2TyD103jS5.mtj4eelZWVpQJKw0""> 11/07/2024 </a> ",
-25,13,12-Nov,Tuesday,Graph Theory,,,,"<a href =  ""https://osu.zoom.us/rec/share/JA3qF_rvT5pXANfWp-JG9FupPD81348A5kBQyoUNU7E3YsYQgYgVXlx6l0rDIc42.GwXBbhr446ow-PWA""> 11/12/2024 </a> ",
-26,13,14-Nov,Thursday,Graph Theory,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208216""> HW9</a>",HW8,,"<a href =  ""https://osu.zoom.us/rec/share/YsVs135Mys9kpt7WsKMukguHhMx967Jqlcsadp6INYiGiTyZr3Jla7awWRMSLJ2m.y-QtGKGQ1TeVpMSV""> 11/14/2024 </a> ",
-27,14,19-Nov,Tuesday,Graph Theory,,,,"<a href =  ""https://osu.zoom.us/rec/share/nN1UeJOZZuv9z2ErZQa2BlaZ1vsxVVt0UCfwYbgeEAACVGb1C5CDwy7m65_yMFkz.dds4U9nrJRCLIylY""> 11/19/2024 </a> ",
-28,14,21-Nov,Thursday,Graph Theory,"<a href= ""https://osu.instructure.com/courses/170923/assignments/4208217""> HW10</a>",HW9,,"<a href =  ""https://osu.zoom.us/rec/share/c6hyjcpXzx8GppqITskGJ2HevUAYN85wV6g59JCwzlKLCUpC1fcXF5gIKBk8DC-s.nhL4S257Mn-_mUSS""> 11/21/2024 </a> ","<a href =  ""https://jlmartin.ku.edu/courses/math105-F11/Lectures/chapter5-part2.pdf""> Eulerian Paths</a> "
-29,15,26-Nov,Tuesday,Review,,,"1. <a href =  ""/cse2321/course_materials/Final-Review.pdf""> Final review </a>",,
-30,15,28-Nov,Thursday,No Class,,HW 10,,,Thanksgiving
-31,16,1-Dec,Sunday-Wed,Final,,,,,Due Wed 12/4
+1,1,6-Jan,Mon,Logic & Proofs,,,"1. <a href =  ""https://osu.instructure.com/files/73180629""> Logic 1  </a> <br> 
+2. <a href =  ""https://osu.instructure.com/files/73180628""> Logic 2 </a> <br>
+3. <a href =  ""https://osu.instructure.com/files/73180630""> Proof Methods </a> ",,
+2,1,8-Jan,Wed,Logic & Proofs,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545814""> HW1 </a>",,,,
+3,2,13-Jan,Mon,Logic & Proofs,,,,,
+4,2,15-Jan,Wed,Logic & Proofs,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545816""> HW2 </a>",HW1,,,
+5,3,20-Jan,Mon,Logic & Proofs,,,,,
+6,3,22-Jan,Wed,Logic & Proofs,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545817""> HW3 </a>",HW2,,,
+7,4,27-Jan,Mon,Set Theory,,,"1. <a href =  ""https://osu.instructure.com/files/73180633""> Set Theory 1  </a> <br> 
+2. <a href =  ""https://osu.instructure.com/files/73180642""> Set Theory 2 </a>",,
+8,4,29-Jan,Wed,Set Theory,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545818""> HW4 </a>",HW3,,,
+9,5,3-Feb,Mon,Set Theory,,,"1. <a href =""https://osu.instructure.com/files/73180651""> Algorithms  </a> <br> 
+2. <a href =  ""https://osu.instructure.com/files/73180639""> Asymptotic Behavior </a>",,
+10,5,5-Feb,Wed,Review For Exam 1,,,,,
+11,6,10-Feb,Mon,Exam 1,,HW4,,,
+12,6,12-Feb,Wed,Algorithms,,,,,
+13,7,17-Feb,Mon,Algorithms,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545819""> HW5 </a>",,,,
+14,7,19-Feb,Wed,Algorithms,,,,,
+15,8,24-Feb,Mon,Algorithms,,,,,
+16,8,26-Feb,Wed,Algorithms,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545820""> HW6 </a>",HW5,,,
+17,9,3-Mar,Mon,Induction,,,,,
+18,9,5-Mar,Wed,Induction,,,,,
+19,10,10-Mar,Mon,No Class,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545821""> HW7 </a>",HW6,"1. <a href =  ""https://osu.instructure.com/files/73180644""> Recursion </a>",,"<a href =  ""https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf""> Master Theorem Notes </a> "
+20,10,12-Mar,Wed,No Class,,,,,
+21,11,17-Mar,Mon,Recursion,,,,,
+22,11,19-Mar,Wed,Recursion,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545822""> HW8</a>",HW7,,,
+23,12,24-Mar,Mon,Recursion,,,,,
+24,12,26-Mar,Wed,Review,,,"1. <a href =  ""https://osu.instructure.com/files/73180627""> Graph Algorithms</a>",,"<a href =  ""https://jlmartin.ku.edu/courses/math105-F11/Lectures/chapter5-part2.pdf""> Eulerian Paths</a> "
+25,13,31-Mar,Mon,Exam 2,,HW8,,,
+26,13,2-Apr,Wed,Graph Theory,,,,,
+27,14,7-Apr,Mon,Graph Theory,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545823""> HW9</a>",,,,
+28,14,9-Apr,Wed,Graph Theory,,,,,
+29,15,14-Apr,Mon,Graph Theory,"<a href= ""https://osu.instructure.com/courses/182856/assignments/4545815""> HW10</a>",HW9,,,
+30,15,16-Apr,Wed,Questions,,,,,
+31,16,21-Apr,Mon,Final,,HW 10,,,
