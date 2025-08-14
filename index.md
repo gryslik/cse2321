@@ -2,18 +2,18 @@
 layout: default
 ---
 
-
-
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css" />
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
 <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>  
 
 
-# Spring 2025
+# Foundations I: Discrete Structures
+
+##Autumn 2025
 
 ## Class Information
 
-Item                     | Section 0180             
+Item                     | Section 0200             
 ------------------------ | -----------                  
 Schedule                 | Monday/Wednesday 1:30 - 2:50 PM
 Location                 | Zoom. Details on Carmen.
@@ -25,7 +25,7 @@ Slack Discussion Group   | See the link in Carmen! Say hello!
 
 All classes will be recorded and posted for you to review online afterwards if you want to listen again. 
 
-Some classes may need to be rescheduled earlier or later due to professor travel. They will of course be recorded as well if the new time doesn't work. 
+Some classes may need to be rescheduled earlier or later due to professor's travel. They will of course be recorded as well if you can't attend that class. 
 
 <em> Please enable your camera if at all able. I understand it's not always possible but it's very helpful to the me! </em>
 
