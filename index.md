@@ -9,16 +9,16 @@ layout: default
 
 # Foundations I: Discrete Structures
 
-##Spring 2026
+##Autumn 2026
 
 ## Class Information
 
-Item                     | Section 0180            
+Item                     | Section 0200            
 ------------------------ | -----------                  
-Schedule                 | Monday/Wednesday 1:30 - 2:50 PM
+Schedule                 | Tuesday/Thursday 9:35 - 10:55 AM
 Location                 | Zoom. Details on Carmen.
 Professor                | Greg Ryslik / ryslik DOT 1 AT osu DOT edu
-Professor Office Hours   | Fridays (2:20 - 3:40 PM) - via zoom. Contact me ahead of time if you plan to attend.
+Professor Office Hours   | Fridays (10 - 11 AM) - via zoom. Contact me ahead of time if you plan to attend.
 TA                       | TBD
 TA Office Hours          | TBD Per request. Please reach out over slack/ email.
 Slack Discussion Group   | See the link in Carmen! Say hello!
