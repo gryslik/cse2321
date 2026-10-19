@@ -26,13 +26,15 @@
 2. <a href =  ""/cse2321/course_materials/lectures/AsymptoticBehaviors1-GR.pdf""> Asymptotic Behavior </a>","<a href=""https://osu.zoom.us/rec/share/e48fOuyDHkQmY6wj4YhioH8skMAO40P02Dm2RWa4qQzNuIxquBAf_X4cz4MppFzW.j7ZZjCywg-MWhQBC""> 10/01/26 </a>","1. <a href =  ""https://osu.instructure.com/files/91952933""> Algorithms  </a> <br> 
 2. <a href =  ""https://osu.instructure.com/files/91952919""> Asymptotic Behavior </a>"
 13,7,10/6/26,Tue,Algorithms,"<a href= ""https://osu.instructure.com/courses/219401/assignments/5635935""> HW5 </a>",,,"<a href=""https://osu.zoom.us/rec/share/aZ3iRjXPocvkGGaoB0MOoJixVVoo_ysFpJDrMAVb6niccR1KDamUF3f_Ijgs2eER.XaQgoC9j-ROELPfO""> 10/06/26 </a>",
-14,8,10/8/26,Thu,Algorithms,,,,,
-15,8,10/13/26,Tue,Algorithms/Induction,"<a href= ""https://osu.instructure.com/courses/219401/assignments/5635936""> HW6 </a>",HW5,"1. <a href =  ""/cse2321/course_materials/lectures/Induction1-GR.pdf""> Algorithms  </a> <br> ",,
+14,8,10/8/26,Thu,Algorithms,,,,"<a href=""https://osu.zoom.us/rec/share/rWZW0u84O_wXL-cjK7SttL8svmhzqKc--wZpZvSOgPmfZDpEkg7WSj-GNWt3uwwU.UJNhGHx6R6HOobV4""> 10/08/26 </a>",
+15,8,10/13/26,Tue,Algorithms/Induction,"<a href= ""https://osu.instructure.com/courses/219401/assignments/5635936""> HW6 </a>",HW5,"1. <a href =  ""/cse2321/course_materials/lectures/Induction1-GR.pdf""> Algorithms  </a> <br> ","<a href=""https://osu.zoom.us/rec/share/IlbZlxKe5iHEtgh1eYdepToUC7QizBGoDd3Ef9pHjbWOG_rRFNeqFdzUNGMHfP7N.kGmj_CNcMh2s_jsW""> 10/13/26 </a>",
 16,9,10/15/26,Thu,No Class,,,Autumn Break,,
-17,9,10/20/26,Tue,Induction,,,,,
+17,9,10/20/26,Tue,Induction,,,"1. <a href =  ""/cse2321/course_materials/lectures/Induction1-GR.pdf""> Induction  </a> 
+",,
 18,10,10/22/26,Thu,Induction,"<a href= ""https://osu.instructure.com/courses/219401/assignments/5635937""> HW7 </a>",HW6,,,
 19,10,10/27/26,Tue,Induction,,,,,
-20,11,10/29/26,Thu,Recursion,,HW7,"1. <a href =  ""https://osu.instructure.com/files/91952923""> Recursion </a>",,"<a href =  ""https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf""> Master Theorem Notes </a>"
+20,11,10/29/26,Thu,Recursion,,HW7,"1. <a href =  ""/cse2321/course_materials/lectures/Recursion1-GR.pdf""> Recursion  </a>",,"<a href =  ""https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf""> Master Theorem Notes </a> <br>
+<a href =  ""https://osu.instructure.com/files/91952923""> Recursion </a>"
 21,11,11/3/26,Tue,Recursion,"<a href= ""https://osu.instructure.com/courses/219401/assignments/5635939""> HW8</a>",,,,
 22,12,11/5/26,Thu,Recursion,,,,,
 23,12,11/10/26,Tue,Review,,HW8,,,
